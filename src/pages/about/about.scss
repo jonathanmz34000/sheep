@@ -1,0 +1,6 @@
+.tab-button[aria-selected=true] .tab-button-icon {
+    background: rgb(226, 224, 29);
+}
+.tab-button[aria-selected=false] .tab-button-icon {
+    background: black;
+}

@@ -1,0 +1,8 @@
+{
+  "name": "sheepysport",
+  "app_id": "49f72c41",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
